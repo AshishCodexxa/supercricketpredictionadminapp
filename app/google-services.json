@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "183480833088",
+    "project_id": "supercricketprediction-90801",
+    "storage_bucket": "supercricketprediction-90801.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183480833088:android:dab91e4c107d00b5f6fba5",
+        "android_client_info": {
+          "package_name": "com.supercricketadmin.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183480833088-52dpqa6stuprif1hmqfdjdnjbhjsg10s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.supercricketadmin.app",
+            "certificate_hash": "299ea57d8c70e88c64e3bf89a20ce17c11723c7f"
+          }
+        },
+        {
+          "client_id": "183480833088-dagcuivpolmr3ina7e2j0rflj9j71vvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXXkqxiO4IG8H88SRUWVq57vd2vh35Byg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183480833088-dagcuivpolmr3ina7e2j0rflj9j71vvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183480833088:android:341166c4c3cb64aaf6fba5",
+        "android_client_info": {
+          "package_name": "com.supercricketprediction.in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183480833088-dagcuivpolmr3ina7e2j0rflj9j71vvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXXkqxiO4IG8H88SRUWVq57vd2vh35Byg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183480833088-dagcuivpolmr3ina7e2j0rflj9j71vvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
